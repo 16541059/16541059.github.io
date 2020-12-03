@@ -14,7 +14,7 @@ $('.navTrigger').click(function () {
 
 $(".btn-danger").click(function (e) {
     e.preventDefault();
-    window.open("https://www.instagram.com/at_hirsizi_timothy");
+    window.open("https://www.instagram.com/bekiryildirimcode");
 });
 $(".btn-primary").click(function (e) {
     e.preventDefault();
